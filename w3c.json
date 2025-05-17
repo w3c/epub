@@ -1,5 +1,9 @@
  {
-    "group":      [144835]
-,   "contacts":   ["iherman"]
-,   "repo-type":  "rec-track"
+    "group": [
+      "wg/pm"
+    ],
+    "contacts": [
+      "iherman"
+    ],
+    "repo-type": "other"
 }
